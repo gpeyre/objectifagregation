@@ -1,0 +1,13 @@
+# Usign the Clean Blog theme
+
+title: Objectif Agrégation
+email: objectif-agregation@h-k.fr
+description: Site web du livre Objectif Agrégation
+baseurl: ""
+url: "http://gpeyre.github.io/ObjectifAgregation/"
+github_username:  gpeyre
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+exclude: ["node_modules"]
