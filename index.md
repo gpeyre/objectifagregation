@@ -2,7 +2,7 @@
 layout: page
 title: "Objectif Agrégation"
 description: "Bienvenue sur le site du livre"
-header-img: "oa-banner.jpg"
+header-img: "/img/oa-banner.jpg"
 ---
 
 Le programme de l'agrégation de mathématiques est vaste ; les livres de références sont nombreux ; le temps manque. Comment vous en sortir ?
