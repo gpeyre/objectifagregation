@@ -9,8 +9,7 @@ Le programme de l'agrégation de mathématiques est vaste ; les livres de réfé
 
 Profitez de notre expérience !
 
-Ce livre pour la préparation de l'agrégation de mathématiques propose pour chaque chapitre:
-
+Ce livre pour la préparation de l'agrégation de mathématiques propose pour chaque chapitre :
 * Les principaux résultats de cours, commentés et mis en relief par des exemples, des prolongements - et des mises en garde ;
 * Des exercices corrigés en détails, tous classiques ou issus de planches d'écrit et d'oral ;
 * Des illustrations et applications des thèmes abordés ;
