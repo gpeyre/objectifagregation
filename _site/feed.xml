@@ -10,7 +10,7 @@
 
     <title>Objectif Agrégation</title>
 
-    <link rel="canonical" href="http://gpeyre.github.io/ObjectifAgregation//feed.xml">
+    <link rel="canonical" href="http://gpeyre.github.io//feed.xml">
 
     <!-- Favicon -->
     <link rel="icon" type="image/png" href="/img/favicon.png">
@@ -126,10 +126,10 @@
   <channel>
     <title>Objectif Agrégation</title>
     <description>Site web du livre Objectif Agrégation</description>
-    <link>http://gpeyre.github.io/ObjectifAgregation//</link>
-    <atom:link href="http://gpeyre.github.io/ObjectifAgregation//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 26 Jun 2015 21:51:47 +0200</pubDate>
-    <lastBuildDate>Fri, 26 Jun 2015 21:51:47 +0200</lastBuildDate>
+    <link>http://gpeyre.github.io//</link>
+    <atom:link href="http://gpeyre.github.io//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 26 Jun 2015 21:55:36 +0200</pubDate>
+    <lastBuildDate>Fri, 26 Jun 2015 21:55:36 +0200</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
   </channel>
